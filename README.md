@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nakul</h1>
 <h3 align="center">A school student learning code from India</h3>
 
-- 🌱 I’m currently learning- **Advanced JS**
+- 🌱 I’m currently learning- **PYTHON**
 
 - 😂 A Joke- **I think I am good at coding**
 
